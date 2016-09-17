@@ -3,4 +3,4 @@ I really dont know i would love some peer review of my code, its about decision 
 
 its a thought experement really. i hope its easy to understand. 
 
-the Source code can be found in LogicalThinking.Java
+the Source Code can be found in LogicalThinking.java
