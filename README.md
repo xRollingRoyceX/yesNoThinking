@@ -7,7 +7,7 @@ the Source Code can be found in LogicalThinking.java
 
 "Given a discussion between two people, say one is a flat earther with a belief that to make the number two, with two numbers, you can use 2+1.
 
-Someone (me) is trying to convince that person that it's 1+1, not 3. my decision at the end is to be intellectually dishonest with myself, to cease the argument. Earth being round vs. being flat is one fixed thought that is trying to be shown with explicit variables of one logical and illogical value.
+Someone (me) is trying to convince that person that it's 1+1, not 1+2. my decision at the end is to be intellectually dishonest with myself, to cease the argument. Earth being round vs. being flat is one fixed thought that is trying to be shown with explicit variables of one logical and illogical value.
 
 The following isn't meant to be useful without having the source code to play with."
 
