@@ -15,4 +15,4 @@ I'm trying to ask see how human thinking works with a logical person, and illogi
 
 "the proposed question" is what the two people are being asked in the CODE. hardwired beliefs as, are in real life. it is a proposed thought experiment, based on a real life interaction between two people, who both have a deep seeded truth. one of these people changes their mind to agree. 
 
-Can you please tell me how bad it is, or how good it is? the code is complete and works EXACTLY as i want it too, just want to know for example, if i used boolean values correctly. 
+Can you please tell me how bad it is, or how good it is? 
