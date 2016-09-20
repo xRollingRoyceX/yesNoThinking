@@ -1,4 +1,4 @@
-# Thought Experiment, on yesNoThinking
+# Thought Experiment, written in code. yesNoThinking in java
 I would love some peer review of my code, its a thought experement really. I hope its easy to understand; before you start reading, some find this code weird.The Source Code can be found in LogicalThinking.java
 
 The following isn't meant to be useful without having the source code to play with:
