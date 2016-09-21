@@ -1,29 +1,3 @@
-Skip to content
-This repository
-
-Pull requests
-Issues
-Gist
-
-@ xRollingRoyceX
-
-1
-0
-
-0
-
-xRollingRoyceX / yesNoThinking - in -JAVA
-Code
-Issues 0
-Pull requests 0
-Projects 0
-Wiki
-Pulse
-Graphs
-Settings
-yesNoThinking - in -JAVA / LogicalThinking.java
-a5c28f2 3 days ago@ xRollingRoyceX xRollingRoyceX Add files via upload
-34 lines(31 sloc) 1.16 KB
 package bools;
 /*
  * 
@@ -55,7 +29,3 @@ public class LogicalThinking {
         }
     }
 }
-
-Contact GitHub API Training Shop Blog About
-
-© 2016 GitHub, Inc.Terms Privacy Security Status Help
