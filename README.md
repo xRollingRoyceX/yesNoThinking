@@ -12,12 +12,12 @@ Given a discussion between two people. Lets, say one is a flat eather, Person_IL
 
  
 
-Earth being round vs. being flat is just one of many fixed thoughts that is being shown here. 
+-Earth being round vs. being flat is just one of many fixed thoughts that is being shown here. 
 
-The variables of one logical(L) value and one illogical(IL) value. 
+-The variables are of one logical(L) value, and one illogical(IL) value. 
 
-The proposed question challenges the hardwired beliefs that are held by both people. As both people have a deep seeded truth they both believe in equally.  
+-The proposed question challenges the hardwired beliefs that are held by both people, both people have a deep seeded truth they both believe in equally.  
 
-One of these people must make the conscience effort to change their mind.(intellectually dishonest with themselves) 
-
+-One of these people must make the conscience effort to change their mind.(intellectually dishonest with themselves) 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [why am I using 2+1 for (IL)? This is because, in this argument, Person_L's argument is entirely based off a simple, logical fact, that is indisputable. So for Person_IL to say that the earth is flat, is equivalent to them saying, (2+1=2) not (2+1=3) ] 
