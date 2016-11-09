@@ -14,19 +14,20 @@ public class LogicalThinking {
 		int person_L = 1+1;  //Logical
 		
 		if (person_L == person_IL){
-			System.out.println("no problems here");					//asking if person_L shares the same answer as person_IL.
+			System.out.println("no problems here");		//asking if person_L shares the same answer as person_IL.
 		}
 		else{
-			System.out.println("give up");							//if the IF( statement) returns false, print this.
+			System.out.println("give up");		           //if the IF( statement) returns false, print this.
 			
 		}
 		if(person_IL != person_L){
-			System.out.println(" still give up");					//if person_IL does not agree with person_L same result...
+			System.out.println(" still give up");		  //if person_IL does not agree with person_L same result...
 		}
 		else{
-			System.out.println("no problems here");					//rare do we find no problems in the things we inquire about with others...
+			System.out.println("no problems here");	         //rare do we find no problems in the things we inquire
+								         //about with others...
 		}
-		for(person_IL = person_IL; person_IL == 3; person_L++ ){					//if i decide to lie to myself, and stop the arguing. 
+		for(person_IL = person_IL; person_IL == 3; person_L++ ){     //if i decide to lie to myself, and stop the arguing. 
 			System.out.println("congrats you lost your integerty,"
 					+ " by agreeing with somthing you dont agree with. ");
 		}
