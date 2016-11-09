@@ -1,7 +1,7 @@
 Logical thinking in java by: 
 
 Sean M. Jesky 
-
+this is a story, written with one foot in code an the other in life.
  
 
  
