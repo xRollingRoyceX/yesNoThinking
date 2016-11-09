@@ -1,7 +1,7 @@
 Logical thinking in java by: 
 
 Sean M. Jesky 
-this is a story. written with one foot in code, and the other in life.
+this is a story. written with one foot in code, and the other in life. (pt.2 is the file LogicalThinking.java)
  
 
  
