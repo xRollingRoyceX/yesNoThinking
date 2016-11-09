@@ -19,5 +19,8 @@ Given a discussion between two people. Lets, say one is a flat eather, Person_IL
 -The proposed question challenges the hardwired beliefs that are held by both people, both people have a deep seeded truth they both believe in equally.  
 
 -One of these people must make the conscience effort to change their mind.(intellectually dishonest with themselves) 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
+
 [why am I using 2+1 for (IL)? This is because, in this argument, Person_L's argument is entirely based off a simple, logical fact, that is indisputable. So for Person_IL to say that the earth is flat, is equivalent to them saying, (2+1=2) not (2+1=3) ] 
