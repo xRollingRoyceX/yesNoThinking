@@ -6,8 +6,8 @@ package bools;
  */
 
 public class LogicalThinking {
-	public static void main(String args[]){					//we think, so speaking is irrelevant. disagreement causes conversations-
-		//question to the both people						//-agreement will silence the world. 
+	public static void main(String args[]){		//we think, so speaking is irrelevant. disagreement causes conversations-
+		//question to the both people		//-agreement will silence the world. 
 		/*
 		 * what two numbers equal 2?**/
 		int person_IL = 2+1; //Illogical
