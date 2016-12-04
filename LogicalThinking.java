@@ -22,8 +22,7 @@ public class LogicalThinking {
 		}
 		 //if the IF( statement) returns false, print this.
 		else{
-			System.out.println("give up");		          
-			
+			System.out.println("give up");		          	
 		}
 		 //if person_IL does not agree with person_L same result...
 		if(person_IL != person_L){
@@ -32,8 +31,7 @@ public class LogicalThinking {
 		///rare do we find no problems in the things we inquire
 		//about with others...
 		else{
-			System.out.println("no problems here");	        
-								         
+			System.out.println("no problems here");	        						         
 		}
 		//if i decide to lie to myself, and stop the arguing. (to be dishonest with my hardwired belief.)
 		for(person_IL = person_IL; person_IL == 3; person_L++ ){     
