@@ -2,7 +2,7 @@ package bools;
 /*
  * 
  * author@RollingRoyce
- *
+ *edit: sunday dec 4, formatted my code to make it as java should look. 
  */
 
 public class LogicalThinking {
