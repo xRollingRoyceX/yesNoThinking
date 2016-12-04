@@ -8,7 +8,7 @@ package bools;
 public class LogicalThinking {
 	public static void main(String args[]){		
 		//we think, so speaking is irrelevant. disagreement causes conversations-
-		//-agreement will silence the world. 
+		//-agreement can silence the world. 
 		
 		//question to the both people-
 		/*
