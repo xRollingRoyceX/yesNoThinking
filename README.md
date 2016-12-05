@@ -6,7 +6,7 @@ this is a story. written with one foot in code, and the other in life. (pt.2 is 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 
-Given a discussion between two people. Lets, say one is a flat eather, Person_IL, with a belief that, to solve for the number two, with two numbers, you have to use the set of numbers [2]+[1]. Someone else, Person_L, is trying to convince Person_IL that its [1]+[1], not [2]+[1]. The decision at the end is for Person_L to be intellectually dishonest with themselves, and cease this ongoing argument. 
+Given a discussion between two people. Lets, say one is a flat eather, Person_IL, with a belief that, to solve for the number two, with two numbers, you have to use the set of numbers /w with the following expression [2]+[1]. Someone else, Person_L, is trying to convince Person_IL that its [1]+[1], not [2]+[1]. The decision at the end is for Person_L to be intellectually dishonest with themselves, and cease this ongoing argument. 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
