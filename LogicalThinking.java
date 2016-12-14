@@ -35,8 +35,8 @@ public class LogicalThinking {
 		}
 		//if i decide to lie to myself, and stop the arguing. (to be dishonest with my hardwired belief.)
 		for(person_IL = person_IL; person_IL == 3; person_L++ ){     
-			System.out.println("congrats you lost your integerty,"
-					+ " by agreeing with somthing you dont agree with. ");
+			System.out.println("congrats you lost your integerty."
+					+ " You are now agreeing with somthing you dont agree with. ");
 		}
 	}
 }
