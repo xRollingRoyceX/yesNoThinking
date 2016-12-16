@@ -24,3 +24,11 @@ Given a discussion between two people. Lets, say one is a flat eather, Person_IL
 -----------------------------------------------------------------------------------------------------------------------
 
 [why am I using 2+1 for (IL)? This is because, in this argument, Person_L's argument is entirely based off a simple, logical fact, that is indisputable. So for Person_IL to say that the earth is flat, is equivalent to them saying,--> [2]+[1]=|2| NOT [2]+[1]=|3|]
+while argument is based on something that can be proven;
+IF (L = FACT)
+   IL must be wrong
+      IF (IL == belief)
+          L must be right. 
+              IF (L != IL)
+                  -infinity- 
+          
