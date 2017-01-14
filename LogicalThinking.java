@@ -1,7 +1,7 @@
 package bools;
 /*
  * 
- * author@RollingRoyce
+ * author@xRollingRoyceX
  *edit: sunday dec 4, formatted my code to make it as java should look. 
  */
 
